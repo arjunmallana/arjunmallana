@@ -2,6 +2,8 @@
 - 👀 I’m interested in SDE and Game Development
 - 🌱 I’m currently learning Game Development 
 - 💞️ I’m looking to learn everything new
+- Working as Tech Support 
+  
 - 📫 How to reach me Linkedin https://www.linkedin.com/in/sidilesh-mallanna/
 
 <!---
